@@ -1,0 +1,34 @@
+.carousel .control-dots {
+    position: absolute;
+    bottom: 0;
+    margin: 20px 900px;
+    text-align: center;
+    width: 100%;
+}
+
+.carousel .thumbs {
+  display: none;
+}
+
+.carousel .slider-wrapper {
+    overflow: hidden;
+    margin: auto;
+    width: 100%;
+    height: 92vh;
+    transition: height .15s ease-in;
+}
+
+.carousel .carousel-status {
+   display: none;
+}
+
+.carosel h1{
+    color: black;
+}
+
+.read-more{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 50px;
+}
